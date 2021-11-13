@@ -1,4 +1,4 @@
-# SGParrot_2021
+# Toxic Comment Classification
 ### 2021-1학기에 진행했던 mini competition 코드 (originally from Kaggle)
 최종 결과물과 코드 설명은 ```0408_logfile.ipynb```, ```output_ensemble.ipynb``` 및 ```toxic_final.pdf``` 파일 참고
 
