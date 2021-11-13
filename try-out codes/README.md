@@ -6,6 +6,7 @@ for other teammates' tryouts, please check ``` 0408_logfile.ipynb ``` from the r
 ### preprocessing
 - cleansing with ``` re ``` module
 - GloVe embedding
+- sentencepiece tokenizer(excluded in final codes)
 
 ### models
 - simple Conv1D layers
