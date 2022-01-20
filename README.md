@@ -37,7 +37,3 @@ train/test/sample_submission datasets from Kaggle competition
 
 ## takeaway notes
 ![notes](https://user-images.githubusercontent.com/80621384/141650122-ee4e1a07-e862-41c0-812c-ceb8ab606eb4.png)
-
-
-## prize
-총 5팀 중 2위
